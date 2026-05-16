@@ -1,10 +1,10 @@
-# MemoryCards 🎮
+# MemoryCards
 
 Simple Memory Cards game created in Android Studio using Kotlin and Jetpack Compose.
 
 ---
 
-## 📱 About the project
+## About the project
 
 The application is a simple memory game where the player has to find matching pairs of cards.
 
@@ -17,7 +17,7 @@ Features:
 
 ---
 
-## 🚀 Technologies
+## Technologies
 
 - Kotlin
 - Android Studio
@@ -26,7 +26,7 @@ Features:
 
 ---
 
-## ⚙️ Features
+## Features
 
 ✅ Random card generation  
 ✅ Card matching system  
@@ -36,13 +36,13 @@ Features:
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 ![MemoryCards](<Zrzut ekranu 2026-05-16 o 16.58.04.png>)
 
 ---
 
-## ▶️ Run the project
+## Run the project
 
 1. Open project in Android Studio
 2. Start Android Emulator
@@ -50,7 +50,7 @@ Features:
 
 ---
 
-## 🧠 What I learned
+## What I learned
 
 - Android application development
 - Kotlin basics
