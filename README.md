@@ -60,6 +60,6 @@ Features:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Aleksander Drozdowicz
