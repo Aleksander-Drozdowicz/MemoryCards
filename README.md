@@ -62,4 +62,4 @@ Features:
 
 ## 👨‍💻 Author
 
-Aleksander Drozdowic
+Aleksander Drozdowicz
